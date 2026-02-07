@@ -1,0 +1,18 @@
+# Airbnb Data Analysis – Módulo 3
+
+Proyecto de análisis exploratorio de datos de Airbnb utilizando Python.
+
+## Contenido
+- Análisis exploratorio de datos
+- Limpieza y transformación
+- Visualización de precios, valoraciones y disponibilidad
+
+## Herramientas
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+
+## Fuente de datos
+Datos obtenidos de Inside Airbnb.
+Datasets: listings.csv, neighbourhoods.csv, reviews.csv
